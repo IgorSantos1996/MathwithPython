@@ -17,7 +17,7 @@ resultado = factor(x**2 - 4 * x + 4)
 print("\nResultado da fatoração do polinômio x**2 - 4*x + 4")
 print(resultado)
 
-resultado = factor(x**2 +x - 6)
+resultado = factor(x**2 + x - 6)
 print("\nResultado da fatoração do polinômio x**2 +x - 6")
 print(resultado)
 
