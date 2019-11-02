@@ -18,6 +18,8 @@ print(matriz_A)
 
 # Cria matriz inversa de A
 matriz_A_inv = linalg.inv(matriz_A)
+
+
 print("\n")
 print("Matriz inversa de A")
 print(matriz_A_inv)
